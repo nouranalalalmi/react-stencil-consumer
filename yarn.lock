@@ -428,6 +428,18 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@nouranalalalmi/react-library@^2.0.0":
+  version "2.0.0"
+  resolved "https://npm.pkg.github.com/download/@nouranalalalmi/react-library/2.0.0/9971304e7eefe759d17e44741820c0e850e843d6#9971304e7eefe759d17e44741820c0e850e843d6"
+  integrity sha512-oVpDPiPdHqaxTe7KJhNy1kVNtJ+me/gfcwPbjNkfsblLe+twmWbyGXiUYLKoIov6ENkgZRfphp3k5N0NCKxm7Q==
+  dependencies:
+    "@nouranalalalmi/stencil-library" "*"
+
+"@nouranalalalmi/stencil-library@*":
+  version "1.0.0"
+  resolved "https://npm.pkg.github.com/download/@nouranalalalmi/stencil-library/1.0.0/0e0be6b113c0dae7980c07f3db973203652c506e#0e0be6b113c0dae7980c07f3db973203652c506e"
+  integrity sha512-9g7hxfPB8nGLvY29rSaiBxa1UR/1IlWBIf+NTGyf+r5RIFBosRncSkPp/nFWC5Ef/q14U8rblBerGkIuqi53ZQ==
+
 "@rollup/rollup-android-arm-eabi@4.17.2":
   version "4.17.2"
   resolved "https://registry.yarnpkg.com/@rollup/rollup-android-arm-eabi/-/rollup-android-arm-eabi-4.17.2.tgz#1a32112822660ee104c5dd3a7c595e26100d4c2d"
