@@ -7,7 +7,9 @@ import {
 defineCustomElements();
 
 function App() {
-  return <CheckoutComponent />;
+  return (
+    <CheckoutComponent storeName="Nouran's React Store" logoUrl="vite.svg" />
+  );
 }
 
 export default App;
